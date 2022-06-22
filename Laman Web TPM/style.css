@@ -1,0 +1,85 @@
+/* Body */
+body{
+
+    background-color: #eb4141;
+    
+}
+
+/* Navbar */
+
+
+/* seksyen 1 */
+.seksyen1{
+    background-color: #000000;
+    padding: 7% 15% 7%;
+    background-image: url(gambar/GAMBAR/banner\ 2.png   );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+        
+}
+
+.banner{
+    text-align: center;
+}
+.heading-sewa{
+    color: #ffffff;
+}
+
+.tulisanPutih{
+    color: rgb(79, 115, 235);
+}
+
+.carousel{
+    padding: 5% 15% 5%;
+    text-align: center;
+    background-color: #1d72aa;
+}
+
+/* Seksyen 2 */
+.seksyen2{
+    background-color: #000000;
+}
+
+/* Tenaga pengajar */
+.tenagapengajar{
+    padding: 5% 3% 0% 10%;
+    text-align: center;
+}
+
+/* Tenaga pengajar */
+.tenagapengajar2{
+    padding: 0% 3% 5% 10%;
+    text-align: center;
+}
+
+/* background penagajar */
+.background10{
+    background-image: url(https://media.giphy.com/media/3o6Zt0EiSgr1cWE6WY/giphy.gif);
+    background-size: cover;
+}
+
+/* footer */
+.footer{
+
+    background-color: DDDDDD;
+    padding: 2%;
+    text-align: center;
+}
+
+/* Auto resize Website */
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+} 
+
+.youtube{
+    text-align: center;
+    padding: auto;
+}
